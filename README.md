@@ -100,12 +100,3 @@ jupyter notebook AI_Jobs.ipynb
 CSV-файл датасета (`global_ai_jobs_2026.csv`) скачивается с
 [Kaggle](https://www.kaggle.com/datasets/datascikhan/global-ai-jobs-2026) и кладётся
 рядом с ноутбуком.
-
----
-
-## Автор
-
-**Матвей Погудин** — студент магистратуры ИТМО «Аналитика данных».
-
-- GitHub: [github.com/MatveyPogudin](https://github.com/MatveyPogudin)
-- Telegram: [@pogudinm](https://t.me/pogudinm)
